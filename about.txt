@@ -1,0 +1,11 @@
+Detector of Abandoned Objects
+DAO
+version 0
+Detection of items that appeared in the scene and became stationary/nonmoving; 
+
+This version functionality: 
+1. Detection of objects that appeared in the observation region and and are nonmoving. 
+2. Validation of detections to remove false detections for items that have left the observation area.
+
+Latest changes 02.12.2025 
+ 
